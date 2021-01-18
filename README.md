@@ -22,6 +22,10 @@ $ git submodule init
 $ git submodule update
 ```
 
+After this, you'll have all repositories cloned into [submodules/](submodules/), but that doesn't mean that all of them are ready to be executed or analyzer. Depending on your goals, you may need to run `composer install` for the project of interest so it downloads all its dependencies.
+
+If you only care about the lightweight syntax analysis, downloading dependencies may not be required as it would only make your results worse due to the code duplication in `vendor/` directory (different corpus entries may depend on the same library, so you'll get multiple hits from the same library).
+
 ## Corpus contents
 
 Only git repositories with open sources are included. We don't copy any code, but add repositories
