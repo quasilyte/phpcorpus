@@ -1,0 +1,48 @@
+[submodule "submodules/phpunit"]
+	path = submodules/phpunit
+	url = https://github.com/sebastianbergmann/phpunit.git
+[submodule "submodules/laravel"]
+	path = submodules/laravel
+	url = https://github.com/laravel/laravel.git
+[submodule "submodules/yii2"]
+	path = submodules/yii2
+	url = https://github.com/yiisoft/yii2.git
+[submodule "submodules/twig"]
+	path = submodules/twig
+	url = https://github.com/twigphp/Twig.git
+[submodule "submodules/composer"]
+	path = submodules/composer
+	url = https://github.com/composer/composer.git
+[submodule "submodules/guzzle"]
+	path = submodules/guzzle
+	url = https://github.com/guzzle/guzzle.git
+[submodule "submodules/moodle"]
+	path = submodules/moodle
+	url = https://github.com/moodle/moodle.git
+[submodule "submodules/psalm"]
+	path = submodules/psalm
+	url = https://github.com/vimeo/psalm
+[submodule "submodules/wordpress"]
+	path = submodules/wordpress
+	url = https://github.com/WordPress/WordPress
+[submodule "submodules/phabricator"]
+	path = submodules/phabricator
+	url = https://github.com/phacility/phabricator.git
+[submodule "submodules/symfony"]
+	path = submodules/symfony
+	url = https://github.com/symfony/symfony.git
+[submodule "submodules/mustache"]
+	path = submodules/mustache
+	url = https://github.com/bobthecow/mustache.php.git
+[submodule "submodules/joomla"]
+	path = submodules/joomla
+	url = https://github.com/joomla/joomla-cms.git
+[submodule "submodules/drupal"]
+	path = submodules/drupal
+	url = https://github.com/drupal/drupal.git
+[submodule "submodules/vk-sdk"]
+	path = submodules/vk-sdk
+	url = https://github.com/VKCOM/vk-php-sdk.git
+[submodule "submodules/php-parser"]
+	path = submodules/php-parser
+	url = https://github.com/nikic/PHP-Parser.git
