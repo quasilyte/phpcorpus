@@ -4,6 +4,24 @@ A collection of various PHP code.
 
 Useful for PHP tools writers to get some insights on how "real-world" PHP code looks like.
 
+## Installation
+
+To clone this repository with all contents at once:
+
+```bash
+# This will take a while...
+git clone --recurse-submodules  https://github.com/quasilyte/phpcorpus.git
+```
+
+If you already cloned phpcorpus without fetching submodules:
+
+```bash
+$ git submodule init
+
+# This will take a while...
+$ git submodule update
+```
+
 ## Corpus contents
 
 Only git repositories with open sources are included. We don't copy any code, but add repositories
