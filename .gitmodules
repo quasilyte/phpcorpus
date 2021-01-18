@@ -46,3 +46,9 @@
 [submodule "submodules/php-parser"]
 	path = submodules/php-parser
 	url = https://github.com/nikic/PHP-Parser.git
+[submodule "submodules/doctrine"]
+	path = submodules/doctrine
+	url = https://github.com/doctrine/orm.git
+[submodule "submodules/propel2"]
+	path = submodules/propel2
+	url = https://github.com/propelorm/Propel2.git
