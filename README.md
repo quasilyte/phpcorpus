@@ -37,6 +37,10 @@ to the git submodules of this repository.
   * [github.com/laravel/laravel](https://github.com/laravel/laravel)
   * [github.com/symfony/symfony](https://github.com/symfony/symfony)
   * [github.com/yiisoft/yii2](https://github.com/yiisoft/yii2)
+  
+* ORM:
+  * [github.com/doctrine/orm](https://github.com/doctrine/orm.git)
+  * [github.com/propelorm/Propel2](https://github.com/propelorm/Propel2.git)
 
 * Templating systems:
   * [github.com/bobthecow/mustache.php](https://github.com/bobthecow/mustache.php)
