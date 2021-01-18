@@ -37,19 +37,22 @@ to the git submodules of this repository.
   * [github.com/laravel/laravel](https://github.com/laravel/laravel)
   * [github.com/symfony/symfony](https://github.com/symfony/symfony)
   * [github.com/yiisoft/yii2](https://github.com/yiisoft/yii2)
-  
+
 * ORM:
-  * [github.com/doctrine/orm](https://github.com/doctrine/orm.git)
-  * [github.com/propelorm/Propel2](https://github.com/propelorm/Propel2.git)
+  * [github.com/doctrine/orm](https://github.com/doctrine/orm)
+  * [github.com/propelorm/Propel2](https://github.com/propelorm/Propel2)
 
 * Templating systems:
   * [github.com/bobthecow/mustache.php](https://github.com/bobthecow/mustache.php)
   * [github.com/twigphp/Twig](https://github.com/twigphp/Twig)
 
 * Libraries:
-  * [github.com/VKCOM/vk-php-sdk](https://github.com/VKCOM/vk-php-sdk.git)
+  * [github.com/VKCOM/vk-php-sdk](https://github.com/VKCOM/vk-php-sdk)
+  * [github.com/brick/math](https://github.com/brick/math)
   * [github.com/guzzle/guzzle](https://github.com/guzzle/guzzle)
-  * [github.com/nikic/PHP-Parser](https://github.com/nikic/PHP-Parser.git)
+  * [github.com/markrogoyski/math-php](https://github.com/markrogoyski/math-php)
+  * [github.com/nikic/PHP-Parser](https://github.com/nikic/PHP-Parser)
+  * [github.com/ramsey/uuid](https://github.com/ramsey/uuid)
 
 * Utilities:
   * [github.com/composer/composer](https://github.com/composer/composer)
@@ -58,10 +61,10 @@ to the git submodules of this repository.
 
 * Platforms/CMS:
   * [github.com/WordPress/WordPress](https://github.com/WordPress/WordPress)
-  * [github.com/drupal/drupal](https://github.com/drupal/drupal.git)
-  * [github.com/joomla/joomla-cms](https://github.com/joomla/joomla-cms.git)
+  * [github.com/drupal/drupal](https://github.com/drupal/drupal)
+  * [github.com/joomla/joomla-cms](https://github.com/joomla/joomla-cms)
   * [github.com/moodle/moodle](https://github.com/moodle/moodle)
-  * [github.com/phacility/phabricator](https://github.com/phacility/phabricator.git)
+  * [github.com/phacility/phabricator](https://github.com/phacility/phabricator)
 
 This list is not guaranteed to be append-only; some entries may be removed.
 

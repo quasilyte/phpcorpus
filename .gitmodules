@@ -52,3 +52,12 @@
 [submodule "submodules/propel2"]
 	path = submodules/propel2
 	url = https://github.com/propelorm/Propel2.git
+[submodule "submodules/uuid"]
+	path = submodules/uuid
+	url = https://github.com/ramsey/uuid.git
+[submodule "submodules/brickmath"]
+	path = submodules/brickmath
+	url = https://github.com/brick/math.git
+[submodule "submodules/math"]
+	path = submodules/math
+	url = https://github.com/markrogoyski/math-php.git
