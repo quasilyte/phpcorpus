@@ -10,7 +10,7 @@ To clone this repository with all contents at once:
 
 ```bash
 # This will take a while...
-git clone --recurse-submodules  https://github.com/quasilyte/phpcorpus.git
+git clone --recurse-submodules --depth 1 https://github.com/quasilyte/phpcorpus.git
 ```
 
 If you already cloned phpcorpus without fetching submodules:
